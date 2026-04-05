@@ -22,15 +22,6 @@ Upload your documents (PDF, TXT, Markdown) and ask questions – the AI answers 
 - Python 3.9 or higher
 - A [DeepSeek API key](https://platform.deepseek.com/) (free tier available)
 
-## 📦 Installation
-
-1. **Clone the repository** (or copy `app.py` to your project folder).
-
-2. **Create and activate a virtual environment** (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # Linux/macOS
-   .\venv\Scripts\activate       # Windows
 
 
 
@@ -56,12 +47,3 @@ Upload your documents (PDF, TXT, Markdown) and ask questions – the AI answers 
 - Python 3.9 或更高版本
 - [DeepSeek API 密钥](https://platform.deepseek.com/)（免费额度可用）
 
-## 📦 安装步骤
-
-1. **克隆代码仓库**（或将 `app.py` 复制到你的项目文件夹）。
-
-2. **创建并激活虚拟环境**（可选但推荐）：
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # Linux/macOS
-   .\venv\Scripts\activate       # Windows
